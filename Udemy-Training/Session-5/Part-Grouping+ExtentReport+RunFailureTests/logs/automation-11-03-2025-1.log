@@ -1,0 +1,97 @@
+2025-11-03 09:48:05 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ALIMOH~1\AppData\Local\Temp\testng-eclipse--1572813141\testng-customsuite.xml"
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\AppData\Local\Temp\testng-eclipse--1572813141\testng-customsuite.xml
+
+2025-11-03 09:48:06 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-11-03 09:48:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@269f4bad: 65 ms
+2025-11-03 09:48:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7e3f95fe: 155 ms
+2025-11-03 09:48:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@2488b073: 13 ms
+2025-11-03 09:48:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2a3591c5: 14 ms
+2025-11-03 09:48:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3efe7086: 7 ms
+2025-11-03 09:48:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7651218e: 8 ms
+2025-11-03 09:48:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3185fa6b: 0 ms
+2025-11-03 09:49:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-03 09:49:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-03 09:50:05 INFO  TC_1_AccountRegistrationTest:14 - **** Starting TC_1_AccountRegistrationTest ****
+2025-11-03 09:50:06 INFO  TC_1_AccountRegistrationTest:20 - Clicked on MyAccount link ...
+2025-11-03 09:50:07 INFO  TC_1_AccountRegistrationTest:22 - Clicked on Register link ...
+2025-11-03 09:50:07 INFO  TC_1_AccountRegistrationTest:25 - Providing Customer details ...
+2025-11-03 09:50:10 INFO  TC_1_AccountRegistrationTest:39 - Validating expected message ...
+2025-11-03 09:50:10 INFO  TC_1_AccountRegistrationTest:42 - Test Passed !!!
+2025-11-03 09:50:10 INFO  TC_1_AccountRegistrationTest:60 - **** Finished TC_1_AccountRegistrationTest ****
+2025-11-03 09:50:14 INFO  TC_2_LoginTest:15 - **** Starting TC_2_LoginTest ****
+2025-11-03 09:50:14 DEBUG TC_2_LoginTest:16 - Capturing application debug logs ...
+2025-11-03 09:50:15 INFO  TC_2_LoginTest:21 - Clicked on MyAccount link ...
+2025-11-03 09:50:15 INFO  TC_2_LoginTest:23 - Clicked on Login link ...
+2025-11-03 09:50:15 INFO  TC_2_LoginTest:26 - Entering valid email and password ...
+2025-11-03 09:50:15 INFO  TC_2_LoginTest:31 - Validating Successful Login ...
+2025-11-03 09:50:51 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-03 09:50:51 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-03 09:50:56 INFO  TC_1_AccountRegistrationTest:14 - **** Starting TC_1_AccountRegistrationTest ****
+2025-11-03 09:50:56 INFO  TC_1_AccountRegistrationTest:20 - Clicked on MyAccount link ...
+2025-11-03 09:50:56 INFO  TC_1_AccountRegistrationTest:22 - Clicked on Register link ...
+2025-11-03 09:50:56 INFO  TC_1_AccountRegistrationTest:25 - Providing Customer details ...
+2025-11-03 09:50:58 INFO  TC_1_AccountRegistrationTest:39 - Validating expected message ...
+2025-11-03 09:50:58 INFO  TC_1_AccountRegistrationTest:42 - Test Passed !!!
+2025-11-03 09:50:58 INFO  TC_1_AccountRegistrationTest:60 - **** Finished TC_1_AccountRegistrationTest ****
+2025-11-03 09:51:02 INFO  TC_2_LoginTest:15 - **** Starting TC_2_LoginTest ****
+2025-11-03 09:51:02 DEBUG TC_2_LoginTest:16 - Capturing application debug logs ...
+2025-11-03 09:51:03 INFO  TC_2_LoginTest:21 - Clicked on MyAccount link ...
+2025-11-03 09:51:03 INFO  TC_2_LoginTest:23 - Clicked on Login link ...
+2025-11-03 09:51:03 INFO  TC_2_LoginTest:26 - Entering valid email and password ...
+2025-11-03 09:51:03 INFO  TC_2_LoginTest:31 - Validating Successful Login ...
+2025-11-03 09:51:04 INFO  TC_2_LoginTest:35 - Test Passed !!!
+2025-11-03 23:17:51 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-03 23:17:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-03 23:18:02 INFO  TC_1_AccountRegistrationTest:14 - **** Starting TC_1_AccountRegistrationTest ****
+2025-11-03 23:18:03 INFO  TC_1_AccountRegistrationTest:20 - Clicked on MyAccount link ...
+2025-11-03 23:18:04 INFO  TC_1_AccountRegistrationTest:22 - Clicked on Register link ...
+2025-11-03 23:18:04 INFO  TC_1_AccountRegistrationTest:25 - Providing Customer details ...
+2025-11-03 23:18:06 INFO  TC_1_AccountRegistrationTest:39 - Validating expected message ...
+2025-11-03 23:18:07 INFO  TC_1_AccountRegistrationTest:42 - Test Passed !!!
+2025-11-03 23:18:07 INFO  TC_1_AccountRegistrationTest:60 - **** Finished TC_1_AccountRegistrationTest ****
+2025-11-03 23:18:13 INFO  TC_2_LoginTest:15 - **** Starting TC_2_LoginTest ****
+2025-11-03 23:18:13 DEBUG TC_2_LoginTest:16 - Capturing application debug logs ...
+2025-11-03 23:18:14 INFO  TC_2_LoginTest:21 - Clicked on MyAccount link ...
+2025-11-03 23:18:14 INFO  TC_2_LoginTest:23 - Clicked on Login link ...
+2025-11-03 23:18:14 INFO  TC_2_LoginTest:26 - Entering valid email and password ...
+2025-11-03 23:18:16 INFO  TC_2_LoginTest:30 - Clicked on Login button ...
+2025-11-03 23:18:16 INFO  TC_2_LoginTest:32 - Validating Successfull Login ...
+2025-11-03 23:18:16 INFO  TC_2_LoginTest:36 - Test Passed !!!
+2025-11-03 23:18:16 INFO  TC_2_LoginTest:43 - **** Finished TC_2_LoginTest ****
