@@ -1,0 +1,18 @@
+2025-10-30 20:31:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\AppData\Local\Temp\testng-eclipse--162750413\testng-customsuite.xml
+
+2025-10-30 20:31:30 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2025-10-30 20:31:39 INFO  TC_1_AccountRegistrationTest:14 - **** Starting TC_1_AccountRegistrationTest ****
+2025-10-30 20:31:39 INFO  TC_1_AccountRegistrationTest:20 - Clicked on MyAccount link ...
+2025-10-30 20:31:40 INFO  TC_1_AccountRegistrationTest:22 - Clicked on Register link ...
+2025-10-30 20:31:40 INFO  TC_1_AccountRegistrationTest:25 - Providing Customer details ...
+2025-10-30 20:31:42 INFO  TC_1_AccountRegistrationTest:39 - Validating expected message ...
+2025-10-30 20:31:43 INFO  TC_1_AccountRegistrationTest:42 - Test Passed !!!
+2025-10-30 20:31:43 INFO  TC_1_AccountRegistrationTest:60 - **** Finished TC_1_AccountRegistrationTest ****
+2025-10-30 20:31:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@33cbfa57: 209 ms
+2025-10-30 20:31:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3bead518: 145 ms
+2025-10-30 20:31:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@14bf57b2: 0 ms
+2025-10-30 20:31:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@30814f43: 30 ms
+2025-10-30 20:31:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@50194e8d: 20 ms
+2025-10-30 20:31:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@79b08632: 10 ms
+2025-10-30 20:31:45 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@787f32b7: 0 ms

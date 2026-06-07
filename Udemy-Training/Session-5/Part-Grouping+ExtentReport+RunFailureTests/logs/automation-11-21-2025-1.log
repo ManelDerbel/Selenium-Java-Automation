@@ -1,0 +1,1470 @@
+2025-11-21 20:46:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 20:46:01 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 20:46:38 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 20:46:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 20:46:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:46:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:46:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:46:52 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:46:52 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:46:52 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:46:52 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 20:46:52 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 20:46:53 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 20:47:04 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 20:47:04 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:47:04 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:47:04 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:47:04 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 20:47:04 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 20:47:04 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 20:47:15 ERROR TC_3_LoginDDT:69 - Test Failed: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c154552d26b21a437f1db57ecdb59dd9, clickElement {id=f.E45557B2AEE53AB7731CF923F980A46E.d.3D46FF7AC43DFBB22DA57BEE5B128867.e.127}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60154}, goog:processID: 21896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60154/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c154552d26b21a437f1db57ecdb59dd9)] -> xpath: //*[@id="top-links"]/ul/li[2]/ul/li[5]/a]
+Session ID: c154552d26b21a437f1db57ecdb59dd9
+2025-11-21 20:47:15 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 20:47:15 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:47:15 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:47:15 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:47:25 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c154552d26b21a437f1db57ecdb59dd9, findElement {value=//a[text()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60154}, goog:processID: 21896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60154/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c154552d26b21a437f1db57ecdb59dd9
+2025-11-21 20:47:25 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 20:47:25 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:47:25 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:47:25 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:47:35 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c154552d26b21a437f1db57ecdb59dd9, findElement {value=//a[text()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60154}, goog:processID: 21896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60154/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c154552d26b21a437f1db57ecdb59dd9
+2025-11-21 20:47:35 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 20:47:35 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:47:35 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:47:35 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:47:51 ERROR TC_3_LoginDDT:69 - Test Failed: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c154552d26b21a437f1db57ecdb59dd9, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60154}, goog:processID: 21896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60154/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c154552d26b21a437f1db57ecdb59dd9
+2025-11-21 20:47:51 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 20:49:05 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 20:49:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:10 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 20:49:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 20:49:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 20:49:11 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:49:11 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:49:11 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:49:11 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 20:49:11 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 20:49:12 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 20:49:22 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 20:49:22 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:49:22 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:49:22 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:49:23 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 20:49:23 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 20:49:23 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 20:49:34 ERROR TC_3_LoginDDT:69 - Test Failed: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cec41228ba4b430142e9767c1138691f, clickElement {id=f.95D681C35F4FFA484F0FCAD9EB2D5039.d.310599DA26C9ECC6A3EA8A3D8BE04ABF.e.129}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60225}, goog:processID: 4336, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60225/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (cec41228ba4b430142e9767c1138691f)] -> xpath: //*[@id="top-links"]/ul/li[2]/ul/li[5]/a]
+Session ID: cec41228ba4b430142e9767c1138691f
+2025-11-21 20:49:34 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 20:49:34 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:49:34 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:49:34 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:49:44 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cec41228ba4b430142e9767c1138691f, findElement {value=//a[text()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60225}, goog:processID: 4336, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60225/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cec41228ba4b430142e9767c1138691f
+2025-11-21 20:49:44 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 20:49:44 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:49:44 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:49:44 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:49:54 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cec41228ba4b430142e9767c1138691f, findElement {value=//a[text()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60225}, goog:processID: 4336, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60225/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cec41228ba4b430142e9767c1138691f
+2025-11-21 20:49:54 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 20:49:54 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 20:49:54 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 20:49:54 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 20:50:04 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cec41228ba4b430142e9767c1138691f, findElement {value=//a[text()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60225}, goog:processID: 4336, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60225/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cec41228ba4b430142e9767c1138691f
+2025-11-21 20:50:04 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 21:55:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ALIMOH~1\AppData\Local\Temp\testng-eclipse-1400507518\testng-customsuite.xml"
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 21:55:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\AppData\Local\Temp\testng-eclipse-1400507518\testng-customsuite.xml
+
+2025-11-21 21:55:57 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:55:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:55:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:55:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@23e44287: 99 ms
+2025-11-21 21:55:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@66ba7e45: 134 ms
+2025-11-21 21:55:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@61c76850: 13 ms
+2025-11-21 21:55:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@746cd757: 17 ms
+2025-11-21 21:55:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6b760460: 10 ms
+2025-11-21 21:55:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3d36dff4: 10 ms
+2025-11-21 21:55:58 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7abe27bf: 0 ms
+2025-11-21 21:56:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 21:56:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 21:56:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 21:56:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 21:56:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 21:56:41 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 21:56:41 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 21:56:41 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 21:56:42 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 21:56:42 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 21:56:43 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 21:56:53 ERROR TC_3_LoginDDT:69 - Test Failed: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [62e4d7afe8d13892273236e521575cb5, clickElement {id=f.1A809F519A6746F5D596AE7163BF81BA.d.713127A46AC59804BCC11D85A0EE2617.e.93}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62023}, goog:processID: 10152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62023/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (62e4d7afe8d13892273236e521575cb5)] -> xpath: //*[@id="top-links"]/ul/li[2]/ul/li[5]/a]
+Session ID: 62e4d7afe8d13892273236e521575cb5
+2025-11-21 21:56:53 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 21:56:54 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 21:56:54 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 21:56:54 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 21:57:04 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [62e4d7afe8d13892273236e521575cb5, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62023}, goog:processID: 10152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62023/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62e4d7afe8d13892273236e521575cb5
+2025-11-21 21:57:04 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 21:57:04 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 21:57:04 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 21:57:04 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 21:57:14 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [62e4d7afe8d13892273236e521575cb5, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62023}, goog:processID: 10152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62023/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62e4d7afe8d13892273236e521575cb5
+2025-11-21 21:57:14 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 21:57:14 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 21:57:14 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 21:57:14 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 21:57:24 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [62e4d7afe8d13892273236e521575cb5, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62023}, goog:processID: 10152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62023/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62e4d7afe8d13892273236e521575cb5
+2025-11-21 21:57:24 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 21:57:24 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 21:57:24 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 21:57:24 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 21:57:34 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [62e4d7afe8d13892273236e521575cb5, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62023}, goog:processID: 10152, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62023/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 62e4d7afe8d13892273236e521575cb5
+2025-11-21 21:57:34 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:01:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ALIMOH~1\AppData\Local\Temp\testng-eclipse-1818984626\testng-customsuite.xml"
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-21 22:01:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\AppData\Local\Temp\testng-eclipse-1818984626\testng-customsuite.xml
+
+2025-11-21 22:01:30 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2025-11-21 22:01:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:01:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:01:31 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:01:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@70e3f36f: 69 ms
+2025-11-21 22:01:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@6be25526: 146 ms
+2025-11-21 22:01:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@99a78d7: 15 ms
+2025-11-21 22:01:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@7f9ab969: 10 ms
+2025-11-21 22:01:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3e7dfd44: 9 ms
+2025-11-21 22:01:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1436a7ab: 8 ms
+2025-11-21 22:01:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3b7b05a8: 0 ms
+2025-11-21 22:02:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 22:02:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:02:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:02:51 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:02:52 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:02:52 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:02:53 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:02:53 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 22:02:53 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 22:02:55 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 22:03:05 ERROR TC_3_LoginDDT:69 - Test Failed: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [679a4f55c9a09eebf548a688483da26b, clickElement {id=f.67A4C77F536929A1E249F85D77262B6E.d.5064E1DD91B2562013C8678308F92295.e.124}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62288}, goog:processID: 20464, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62288/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (679a4f55c9a09eebf548a688483da26b)] -> xpath: //*[@id="top-links"]/ul/li[2]/ul/li[5]/a]
+Session ID: 679a4f55c9a09eebf548a688483da26b
+2025-11-21 22:03:05 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:03:05 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:03:05 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:03:05 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:03:15 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [679a4f55c9a09eebf548a688483da26b, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62288}, goog:processID: 20464, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62288/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 679a4f55c9a09eebf548a688483da26b
+2025-11-21 22:03:15 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:03:15 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:03:15 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:03:15 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:03:23 ERROR TC_3_LoginDDT:69 - Test Failed: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=142.0.7444.163)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [679a4f55c9a09eebf548a688483da26b, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62288}, goog:processID: 20464, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62288/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 679a4f55c9a09eebf548a688483da26b
+2025-11-21 22:03:23 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:03:23 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:03:23 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:03:23 ERROR TC_3_LoginDDT:69 - Test Failed: invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [679a4f55c9a09eebf548a688483da26b, findElement {using=xpath, value=//span[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62288}, goog:processID: 20464, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62288/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 679a4f55c9a09eebf548a688483da26b
+2025-11-21 22:03:23 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:03:23 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:03:23 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:03:23 ERROR TC_3_LoginDDT:69 - Test Failed: invalid session id
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [679a4f55c9a09eebf548a688483da26b, findElement {using=xpath, value=//span[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62288}, goog:processID: 20464, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62288/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 679a4f55c9a09eebf548a688483da26b
+2025-11-21 22:03:23 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:05:48 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 22:05:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 22:05:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:05:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:05:57 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:05:57 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:05:58 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:05:59 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 22:05:59 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 22:06:00 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 22:06:10 ERROR TC_3_LoginDDT:69 - Test Failed: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8c44275bd6d51e677e9bec7b65689e1, clickElement {id=f.3203479DE6D08AFCF7F348397CE11B88.d.6F5A250409DF74944B233D8F1E298A15.e.92}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62394}, goog:processID: 19272, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62394/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e8c44275bd6d51e677e9bec7b65689e1)] -> xpath: //*[@id='top-links']/ul/li[2]/ul/li[5]/a]
+Session ID: e8c44275bd6d51e677e9bec7b65689e1
+2025-11-21 22:06:10 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:06:10 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:06:10 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:06:10 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:06:20 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8c44275bd6d51e677e9bec7b65689e1, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62394}, goog:processID: 19272, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62394/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8c44275bd6d51e677e9bec7b65689e1
+2025-11-21 22:06:20 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:06:20 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:06:20 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:06:20 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:06:30 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8c44275bd6d51e677e9bec7b65689e1, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62394}, goog:processID: 19272, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62394/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8c44275bd6d51e677e9bec7b65689e1
+2025-11-21 22:06:30 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:06:30 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:06:30 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:06:30 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:06:40 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8c44275bd6d51e677e9bec7b65689e1, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62394}, goog:processID: 19272, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62394/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8c44275bd6d51e677e9bec7b65689e1
+2025-11-21 22:06:40 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:06:40 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:06:40 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:06:40 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:06:51 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8c44275bd6d51e677e9bec7b65689e1, findElement {using=xpath, value=//a[text()='Login']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62394}, goog:processID: 19272, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62394/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8c44275bd6d51e677e9bec7b65689e1
+2025-11-21 22:06:51 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:07:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 22:07:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 22:07:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:07:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:07:14 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:07:14 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:07:14 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:07:14 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:07:15 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 22:07:15 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 22:07:16 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 22:07:26 ERROR TC_3_LoginDDT:69 - Test Failed: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e83dbe26ba76c9697882db7f04db0e2d, clickElement {id=f.07FE0A112B68C7E7390DDC8AAF3FC9D3.d.2B6844FCF95D1BB67C1BBD16FF1B6E1E.e.112}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62459}, goog:processID: 19604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62459/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e83dbe26ba76c9697882db7f04db0e2d)] -> xpath: //*[@id='top-links']/ul/li[2]/ul/li[5]/a]
+Session ID: e83dbe26ba76c9697882db7f04db0e2d
+2025-11-21 22:07:26 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:07:26 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:07:26 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:07:26 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:07:36 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e83dbe26ba76c9697882db7f04db0e2d, findElement {value=//a[text()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62459}, goog:processID: 19604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62459/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e83dbe26ba76c9697882db7f04db0e2d
+2025-11-21 22:07:36 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:07:36 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:07:36 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:07:36 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:07:46 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e83dbe26ba76c9697882db7f04db0e2d, findElement {value=//a[text()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62459}, goog:processID: 19604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62459/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e83dbe26ba76c9697882db7f04db0e2d
+2025-11-21 22:07:46 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:07:46 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:07:46 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:07:46 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:07:57 ERROR TC_3_LoginDDT:69 - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Login']"}
+  (Session info: chrome=142.0.7444.163)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e83dbe26ba76c9697882db7f04db0e2d, findElement {value=//a[text()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62459}, goog:processID: 19604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62459/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e83dbe26ba76c9697882db7f04db0e2d
+2025-11-21 22:07:57 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:07:57 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:07:57 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:07:57 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:08:06 ERROR TC_3_LoginDDT:69 - Test Failed: Error communicating with the remote browser. It may have died.
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e83dbe26ba76c9697882db7f04db0e2d, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.163, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\ALIMOH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62459}, goog:processID: 19604, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62459/devtoo..., se:cdpVersion: 142.0.7444.163, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e83dbe26ba76c9697882db7f04db0e2d
+2025-11-21 22:08:06 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:16:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 22:16:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 22:16:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:16:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:16:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:16:13 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:16:13 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:16:13 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:16:13 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:16:13 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 22:16:13 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 22:16:14 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 22:16:16 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:16:16 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:16:16 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:16:16 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:16:16 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 22:16:16 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 22:16:17 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 22:16:27 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:16:27 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:16:27 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:16:27 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:16:27 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 22:16:27 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 22:16:27 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 22:16:38 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:16:38 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:16:38 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:16:38 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:16:38 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 22:16:38 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 22:16:39 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 22:16:49 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:16:49 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:16:49 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:16:49 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:16:50 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 22:16:50 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 22:16:51 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 22:16:51 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 22:59:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 22:59:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 22:59:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 22:59:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 22:59:58 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 22:59:58 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 22:59:58 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 22:59:58 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 22:59:58 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:00:00 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:00:00 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:00:00 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:00:00 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:00:00 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:00:01 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:00:01 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:00:06 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:00:16 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:00:16 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:00:16 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:00:16 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:00:17 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:00:17 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:00:19 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:00:29 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:00:29 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:00:29 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:00:29 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:00:30 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:00:30 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:00:30 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:00:40 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:00:40 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:00:40 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:00:40 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:00:40 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:00:40 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:00:41 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:00:42 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:01:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 23:01:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 23:01:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:01:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:01:48 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:01:48 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:01:48 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:01:49 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:01:49 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:01:49 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:01:50 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:01:51 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:01:51 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:01:51 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:01:51 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:01:51 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:01:51 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:01:51 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:02:01 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:02:01 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:02:01 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:02:01 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:02:02 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:02:02 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:02:02 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:02:13 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:02:13 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:02:13 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:02:13 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:02:13 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:02:13 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:02:14 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:02:24 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:02:24 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:02:24 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:02:24 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:02:25 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:02:25 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:02:25 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:02:26 INFO  TC_3_LoginDDT:74 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:05:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml"
+2025-11-21 23:05:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ali mohammed  qisara\Documents\Formation\Selenium_Java_Project\OpenCart_V1\master.xml
+
+2025-11-21 23:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-21 23:05:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-21 23:05:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-11-21 23:05:58 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:05:58 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:05:58 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:05:58 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:05:58 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:05:59 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:06:00 INFO  TC_3_LoginDDT:70 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:06:00 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:06:00 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:06:00 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:06:00 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:06:00 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:06:01 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:06:11 INFO  TC_3_LoginDDT:70 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:06:11 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:06:11 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:06:11 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:06:12 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:06:12 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:06:12 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:06:22 INFO  TC_3_LoginDDT:70 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:06:22 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:06:22 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:06:22 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:06:22 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:06:22 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:06:22 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:06:32 INFO  TC_3_LoginDDT:70 - ******* Finished TC_3_LoginDDT *******
+2025-11-21 23:06:32 INFO  TC_3_LoginDDT:22 - ******* Starting TC_3_LoginDDT *******
+2025-11-21 23:06:32 DEBUG TC_3_LoginDDT:23 - Capturing application debug logs
+2025-11-21 23:06:32 INFO  TC_3_LoginDDT:28 - Clicked on MyAccount link ...
+2025-11-21 23:06:33 INFO  TC_3_LoginDDT:30 - Clicked on Login link ...
+2025-11-21 23:06:33 INFO  TC_3_LoginDDT:33 - Providing credentials: email and password
+2025-11-21 23:06:33 INFO  TC_3_LoginDDT:37 - Clicked on Login Button ...
+2025-11-21 23:06:34 INFO  TC_3_LoginDDT:70 - ******* Finished TC_3_LoginDDT *******
